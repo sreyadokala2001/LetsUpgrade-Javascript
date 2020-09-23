@@ -6,7 +6,7 @@ let merch = [
       size: "m",
       color: "gray",
       price: 8000,
-      image: "1.png",
+      image: "d1.jpg",
       description: "Classic 3 piece tuxedo",
     },
     {
@@ -15,7 +15,7 @@ let merch = [
       size: "M",
       color: "Black",
       price: 6000,
-      image: "2.PNG",
+      image: "d2.jpg",
       description: "Black tuxedo from kingsmen",
     },
   
@@ -26,7 +26,7 @@ let merch = [
       size: "l",
       color: "Ash",
       price: 9000,
-      image: "3.PNG",
+      image: "d3.jpg",
       description: "Double brested grey suit",
     },
   
@@ -36,7 +36,7 @@ let merch = [
       size: "8",
       color: "Black",
       price: 3000,
-      image: "4.PNG",
+      image: "d4.jpg",
       description: "black brouge for formal suiting",
     },
   
@@ -46,7 +46,7 @@ let merch = [
       size: "S",
       color: "orange",
       price: 8000,
-      image: "5.PNG",
+      image: "d5.jpg",
       description: "Party wear orange tuxedo",
     },
   
@@ -56,7 +56,7 @@ let merch = [
       size: "M",
       color: "black",
       price: 2000,
-      image: "6.PNG",
+      image: "d6.jpg",
       description: "Gentlemen swag specs",
     },
     {
@@ -65,7 +65,7 @@ let merch = [
       size: "M",
       color: "black",
       price: 7000,
-      image: "7.PNG",
+      image: "d7.jpg",
       description: "Good looking Traditional Dress",
     },
     {
@@ -74,7 +74,7 @@ let merch = [
       size: "S",
       color: "blue",
       price: 10000,
-      image: "8.PNG",
+      image: "d8.jpg",
       description: "Good looking suit",
     },
     {
@@ -83,7 +83,7 @@ let merch = [
       size: "-",
       color: "blue",
       price: 1200,
-      image: "heure.jpg",
+      image: "d9.jpg",
       description: "classy Watch",
     },
     {
@@ -92,7 +92,7 @@ let merch = [
       size: "M",
       color: "Henna",
       price: 4000,
-      image: "jacket.jpg",
+      image: "d10.jpg",
       description: "damn looking jacket",
     },
     {
@@ -101,7 +101,7 @@ let merch = [
       size: "M",
       color: "black",
       price: 6000,
-      image: "leatheroxford.webp",
+      image: "d11.webp",
       description: "Black oxford for gentlemen's collection",
     },
     {
@@ -110,7 +110,7 @@ let merch = [
       size: "M",
       color: "Henna",
       price: 12000,
-      image: "singleBrestCoat.jpg",
+      image: "d12.jpg",
       description: "single brested suit with long coat",
     },
   ];
