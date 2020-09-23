@@ -2,7 +2,7 @@
 let merch = [
     {
       id: 1,
-      name: "3 Piece Tux",
+      name: "pink-shoes",
       size: "m",
       color: "gray",
       price: 8000,
@@ -11,7 +11,7 @@ let merch = [
     },
     {
       id: 2,
-      name: "Black tuxedo",
+      name: "white-shoes",
       size: "M",
       color: "Black",
       price: 6000,
@@ -22,7 +22,7 @@ let merch = [
     {
       id: 3,
   
-      name: "double Brested suit",
+      name: "blue-canvas-shoes",
       size: "l",
       color: "Ash",
       price: 9000,
@@ -32,7 +32,7 @@ let merch = [
   
     {
       id: 4,
-      name: "shoes",
+      name: "baby-pink-shoes",
       size: "8",
       color: "Black",
       price: 3000,
@@ -42,7 +42,7 @@ let merch = [
   
     {
       id: 5,
-      name: "Orange tux",
+      name: "black-regular-shoes",
       size: "S",
       color: "orange",
       price: 8000,
@@ -52,7 +52,7 @@ let merch = [
   
     {
       id: 6,
-      name: "specs",
+      name: "grey-shoes",
       size: "M",
       color: "black",
       price: 2000,
@@ -61,7 +61,7 @@ let merch = [
     },
     {
       id: 7,
-      name: "black",
+      name: "black-shoes",
       size: "M",
       color: "black",
       price: 7000,
@@ -70,7 +70,7 @@ let merch = [
     },
     {
       id: 8,
-      name: "double brested",
+      name: "black-snikkers",
       size: "S",
       color: "blue",
       price: 10000,
@@ -79,7 +79,7 @@ let merch = [
     },
     {
       id: 9,
-      name: "watch",
+      name: "shoes",
       size: "-",
       color: "blue",
       price: 1200,
@@ -88,7 +88,7 @@ let merch = [
     },
     {
       id: 10,
-      name: "jacket",
+      name: "sky-blue-shoes",
       size: "M",
       color: "Henna",
       price: 4000,
@@ -97,7 +97,7 @@ let merch = [
     },
     {
       id: 11,
-      name: "oxford leather shoes",
+      name: "red-shoes",
       size: "M",
       color: "black",
       price: 6000,
@@ -106,7 +106,7 @@ let merch = [
     },
     {
       id: 12,
-      name: "single brested suite",
+      name: "brownishish-yellow snikkers",
       size: "M",
       color: "Henna",
       price: 12000,
